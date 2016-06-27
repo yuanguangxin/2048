@@ -10,6 +10,6 @@ Clone By 1024. Using simple html/css and javascript.
 
 ### How to play
 
-#### [Play Now!]()
+#### [Play Now!](https://yuanguangxin.github.io/2048/)
 
 **Enjoy it!**
