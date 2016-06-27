@@ -12,4 +12,8 @@ Clone By 1024. Using simple html/css and javascript.
 
 #### [Play Now!](https://yuanguangxin.github.io/2048/)
 
+### Tips
+
+Recommend using Chrome.
+
 **Enjoy it!**
