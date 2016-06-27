@@ -10,6 +10,6 @@ Clone By 1024. Using simple html/css and javascript.
 
 ### How to play
 
-[play now]()
+#### [Play Now!]()
 
-#### Enjoy it!
+**Enjoy it!**
