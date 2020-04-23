@@ -2,7 +2,7 @@
 
 ### About
 
-Clone By 1024. Using simple html/css and javascript.
+2048 for web. Using simple html/css and javascript.
 
 ### Screenshots
 
